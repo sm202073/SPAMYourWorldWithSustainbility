@@ -1,0 +1,100 @@
+body{
+  background-color: #D3FFE9;
+}
+
+.initial{
+color: #40798c;
+margin-top: 30px;
+margin-left: 150px;
+font-size: 120px;
+font-family: 'Codystar', cursive;
+}
+
+.verticalMac{
+  font-family: 'Oswald', sans-serif;
+  writing-mode: vertical-lr;
+  text-orientation: upright;
+  justify-content: flex-start;
+  margin: 0px;
+  margin-top: -225px;
+  padding: 35px; 
+  color: #40798c;
+  font-size: 35px;
+}
+
+
+.descriptionContainer{
+position: absolute;
+width: 750px;
+height: 650px;
+left: 550px;
+top: 48.69px;
+background: #F4F8F2;
+/* font-family: 'Oswald', sans-serif; */
+
+}
+
+.description{
+position: absolute;
+width: 650px;
+height: 675px;
+left: 50px;
+top: -130px;
+
+font-family: 'Oswald', sans-serif;
+font-size: 22px;
+line-height: 75px;
+display: flex;
+align-items: center;
+letter-spacing: .2px;
+text-align:center;
+
+color: #1f363d;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin-top: 450px;
+  margin-left: 85px;
+  border-radius: 50%;
+
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  }
+.fa-linkedin {
+  background: #0e76a8;
+  color: white;
+}
+.mButtons {
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: 150px;
+  justify-content: space-between;
+  padding: 15px;
+}
+.mBackButton {
+  margin-right: 100px;
+  padding: 10px;
+  margin-top: 50px;
+}
+.mHomeButton {
+  margin-right:200px;
+  padding: 10px;
+}
