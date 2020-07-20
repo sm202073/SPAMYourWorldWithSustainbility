@@ -1,0 +1,122 @@
+body{
+  background-color: #D3FFE9;
+}
+
+.head-container{
+  font-family:'Oswald', sans-serif;
+  color: #1f363d;
+}
+
+
+.sHeader {
+color: #40798c;
+/* margin-top: 100px;
+font-size: 120px; */
+margin-right: 1400px;
+margin-left: 200px; 
+font-family: 'Codystar', cursive;
+margin-top: 205px;
+font-size: 120px;
+}
+
+
+/* .sHeader {
+color: #40798c;
+margin-top: 140px;
+font-size: 120px;
+  writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  font-family: 'Codystar', cursive;
+  font-size: 85px;
+  color: black;
+  position: absolute;
+  align-content: center;
+  margin-top: 30px;
+  padding: 60px;
+} */
+
+.vertical-source{
+  writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  margin: 10px;
+  margin-top: -395px;
+  padding: 80px;
+  color: #40798c;
+  font-size: 35px;
+}
+
+/*h1{
+writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  font-family: 'Codystar', cursive;
+  font-size: 85px;
+  color: black;
+  position: absolute;
+  align-content: center;
+  margin-top: 30px;
+  padding: 60px;
+
+} 
+*/
+
+/*.textUnderSlider {
+ left: 0;
+ position: absolute;
+ right: 0;
+ text-align: center;
+ top: 100%;
+}
+*/
+
+.content{
+  display:flex;
+  text-align: left;
+  flex-direction: column;
+  position: absolute;
+  width: 750px;
+  height: auto;
+  left: 550px;
+  top: 48.69px;
+  background: #F4F8F2; 
+  color: #1f363d;
+  font-family:'Oswald', sans-serif;
+}
+/* .sButtons{
+  left: 50%;
+  right: 50%;
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: 80px;
+  justify-content: space-between;
+  padding: 15px;
+} */
+.startHereButton {
+  margin-right: 200px;
+  padding: 10px;
+} 
+.sButtons {
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: -10px;
+  justify-content: space-between;
+  padding: 15px;
+}
+.sHomeButton {
+  margin-right:200px;
+  padding: 10px;
+  background-color: #A6C9C5;
+}
+.continue {
+  padding: 10px;
+  background-color: #A6C9C5;
+}
+.submit {
+  margin-right:200px;
+  padding: 10px;
+  background-color: #A6C9C5;
+}

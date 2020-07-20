@@ -1,0 +1,93 @@
+body {
+ background: #D3FFE9;
+}
+
+.aHeader {
+color: #40798c;
+margin-top: 205px;
+font-size: 120px;
+}
+
+.vertical-accomodate{
+  writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  margin: 10px;
+  margin-top: 50px;
+  padding: 80px;
+  color: #40798c;
+  font-size: 35px;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1{
+writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  font-family: 'Codystar', cursive;
+  font-size: 85px;
+  position: absolute;
+  align-content: center;
+  margin-top: 30px;
+  padding: 60px;
+}
+
+.aMiniDescription {
+  color: #1f363d;
+  display: flex;
+  font-size: 50px;
+  font-family:'Oswald', sans-serif;
+} 
+
+.changes {
+position: absolute;
+width: 1000px;
+height: auto;
+left: 325px;
+top: 48.69px;
+
+background: #F4F8F2;
+}
+
+.lightSwitchPic, .compostPic, .recyclePic, .carPic, .lunchboxPic, .laptopPic, .walkBikeCarpoolPic, .officePlantsPic, .shopLocalPic, .inSeasonPic, .thriftStorePic, .reusableBagPic {
+height: 200px;
+width: 200px;
+object-fit: cover;
+margin: 15px 15px 15px 15px;
+}
+
+.atHome, .atWork, .shopping {
+  color:#8FDBE0;
+  font-size: 40px;
+  font-family: 'Oswald', sans-serif;
+}
+
+.atHomeEx, .compostEx, .recycleEx, .driveEx, .atWorkEx, .shoppingEx {
+  color:#70A9A1;
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+a {
+  color: #70A9A1;
+}
+.aButtons {
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: 80px;
+  justify-content: space-between;
+  padding: 15px;
+  font-family: 'Oswald', sans-serif;
+}
+.aBackButton {
+  margin-right: 200px;
+  padding: 10px;
+}
+.aHomeButton {
+  margin-right:200px;
+  padding: 10px;
+}
+.aContinueButton {
+  padding: 10px;
+}

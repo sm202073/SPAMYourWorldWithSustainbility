@@ -1,0 +1,188 @@
+body{
+  background: #D3FFE9;
+}
+
+.pHeader {
+color: #40798c;
+margin-top: 100px;
+font-size: 120px;
+margin-right: 1400px;
+font-family: 'Codystar', cursive;
+}
+
+.vertical-proactive{
+  writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  margin: 10px;
+  margin-top: 0px;
+  padding: 80px;
+  color: #40798c;
+  font-size: 35px;
+}
+.pSection{
+  font-family:'Oswald', sans-serif;
+  color: #1f363d;
+}
+h1{
+writing-mode: vertical-lr;
+  text-orientation:upright;
+  justify-content: flex-start;
+  font-family: 'Oswald', sans-serif;
+  font-size: 85px;
+  position: absolute;
+  align-content: center;
+  margin-top: 30px;
+  padding: 60px;
+}
+/* h1{ display:flex;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 35px;
+  justify-content: center; */
+/*   border: rgb(99, 95, 95);
+  background-color: rgb(153, 214, 153); */
+}
+.pMiniDescription{ 
+  display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+
+.whatIsCC{ display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 30px;
+  justify-content:center;
+ 
+}
+.introToCC{ display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.learnMore {
+  display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.graphDescription{ display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.racism{ display:flex;
+font-family:'Oswald', sans-serif;
+  font-size: 30px;
+  justify-content:center;
+}
+.racismDescription{ display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.foodHeading{ display:flex;
+font-family:'Oswald', sans-serif;
+  font-size: 30px;
+  justify-content:center;
+}
+.foodDescription{ display:flex;
+  font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.nonrenew{ display:flex;
+font-family:'Oswald', sans-serif;
+  font-size: 30px;
+  justify-content:center;
+}
+.nonrenewDescription{ display:flex;
+    font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.bottomLine{ display:flex;
+font-family:'Oswald', sans-serif;
+  font-size: 30px;
+  justify-content:center;
+}
+.bottomLineDescription{ display:flex;
+    font-family:'Oswald', sans-serif;
+  font-size: 25px;
+  justify-content: center;
+}
+.CO2Pic{ display:flex;
+  height: 300px;
+  width:auto;
+  justify-content:center;
+  
+  }
+.Graph{ display:flex;
+  height: 300px;
+  width:auto;
+  justify-content:center;
+}
+.landfillPic{ 
+  display:flex;
+  height: 300px;
+  width:auto;
+  justify-content:center;
+}
+.garbage{
+  display:flex;
+  height: 300px;
+  width:auto;
+  justify-content:center;
+}
+.ALink{ Display:flex;
+justify-content:center;
+}
+.goBack{
+  display:flex;
+  justify-content:center;
+}
+.goHome{
+   display:flex;
+  justify-content:center;
+}
+.mainPSection{
+position: absolute;
+width: 70%;
+height: auto;
+right: 2%;
+top: 48.69px;
+background: #F4F8F2;
+}
+/* Buttons{
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: 80px;
+  justify-content: space-between;
+  padding: 15px;
+} */
+.pButtons {
+  height: 80px;
+  width: 60px;
+  display: inline;
+  margin-left: 80px;
+  justify-content: space-between;
+  padding: 15px;
+}
+.pBackButton {
+  margin-right: 200px;
+  padding: 10px;
+}
+.pHomeButton {
+  margin-right:200px;
+  padding: 10px;
+}
+.pContinueButton {
+  padding: 10px;
+}
+img {
+  margin-left: 250px;
+}
+a {
+  color: #70A9A1;
+}
